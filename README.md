@@ -4,5 +4,6 @@ To change the count, modify line 3 (for i in {1..50}) with the desired range.
   - Change 1 to the starting number and 50 to the final number in the desired count.
 
 Use the following command to run the script from a Linux terminal: ./bashcount.sh
+
 *Ensure the script is executable*
 
