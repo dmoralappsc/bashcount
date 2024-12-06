@@ -7,3 +7,5 @@ Use the following command to run the script from a Linux terminal: ./bashcount.s
 
 *Ensure the script is executable*
 
+Use the following to ensure the script is executable: chmod +x bashcount.sh
+
